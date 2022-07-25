@@ -1,8 +1,7 @@
 <h1 style="text-align:center;">VOTE FOR S BALAKRISHNA </h1>
 
 ![](./PGP38142_16_Campaign_Poster.png)
-<video src="https://user-images.githubusercontent.com/109454786/180826126-b1c3249e-557e-4e6c-bc1c-26b4ceb44c7c.mp4
-" controls="controls" style="width: 100%; height:auto">
+<video src="https://user-images.githubusercontent.com/109454786/180874182-01aa8f38-9d3d-4318-9243-dfb32e9f4c7a.mp4" controls="controls" style="width: 100%; height:auto">
 </video>
 
 ## About me
