@@ -1,7 +1,9 @@
 # Hostel 16 HR Election
 
 ![](./PGP38142_16_Campaign_Poster.png)
-![Campaign Video](./test_video.mp4)
+<video src="https://user-images.githubusercontent.com/109454786/180826126-b1c3249e-557e-4e6c-bc1c-26b4ceb44c7c.mp4
+" controls="controls" style="max-width: 730px;">
+</video>
 
 ## About me
 Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for the post of Hostel 16 Representative.
