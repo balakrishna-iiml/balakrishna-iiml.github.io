@@ -7,7 +7,6 @@ Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for 
 - I was the first person of PGP38/ABM19/FPM23 batch to come to this hostel
 - I helped quite a few people with their lan/internet connectivity issues and still do
 - I am active on the hostel 16 group, always ready to extend help whenever I can
-- I follow EPL & I support Tottenham Hotspurs. I love LOTR & Hobbit. No the eagles were not the solution.
 
 * * *
 
