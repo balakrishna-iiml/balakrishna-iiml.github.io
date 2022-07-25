@@ -30,4 +30,4 @@ Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for 
 ## Voting (Tentative)
 
 ### Voting starts : 17:00:00 Hrs, 27-07-2022
-### Election concludes : 20:59:59 Hrs, 27-07-2022
+### Voting concludes : 20:59:59 Hrs, 27-07-2022
