@@ -13,7 +13,7 @@ Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for 
 ## Objective
 1. Keep in touch with IIML computer centre over stable LAN connectivity; help getting hardware/router issues resolved ASAP 
 2. Coordinate with staff to fix bathroom stalls whose doors don't close / whose water taps are not working
-3. Fix Geyser & water cooler problem - All floors should have at least one working geyser and 1 hot water tap on both sides
+3. Fix geyser & water cooler problem - All floors should have at least one working geyser and 1 hot water tap on both sides
 4. Assist you in case your room issues - such as problems with mattress, electrical issues, are not resolved on time
 5. Arrange intra-hostel activities such as cricket, football, chess, badminton
 6. Coordinate with concerned stakeholders to improve services
