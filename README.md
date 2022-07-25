@@ -1,6 +1,8 @@
 # Hostel 16 HR Election
+
 ![](./PGP38142_16_Campaign_Poster.png)
-![](./test.mp4)
+![Campaign Video](./test.mp4)
+
 ## About me
 Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for the post of Hostel 16 Representative.
 - I was the first person of PGP38/ABM19/FPM23 batch to come to this hostel
@@ -16,7 +18,9 @@ Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for 
 3. Fix Geyser & water cooler problem - All floors should have at least one working geyser and 1 hot water tap on both sides
 4. Assist you in case your personal issue such as problems with mattress, electrical issues in room are not resolved on time
 5. Arrange intra-hostel activities such as cricket, football, chess, badminton
+
 * * *
+
 ## Agenda.docx (submitted to Senate)
 
 [Agenda](./PGP38142_16.pdf)
