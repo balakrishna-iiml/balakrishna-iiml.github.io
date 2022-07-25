@@ -1,17 +1,6 @@
-<h1 style="text-align:center;">VOTE FOR S BALAKRISHNA </h1>
-
 ![](./PGP38142_16_Campaign_Poster.png)
 <video src="https://user-images.githubusercontent.com/109454786/180874182-01aa8f38-9d3d-4318-9243-dfb32e9f4c7a.mp4" controls="controls" style="width: 100%; height:auto">
 </video>
-
-## About me
-Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for the post of Hostel 16 Representative.
-- I was the first person of PGP38/ABM19/FPM23 batch to come to this hostel
-- I helped quite a few people with their lan/internet connectivity issues and still do
-- I am active on the hostel 16 group, always ready to extend help whenever I can
-- I follow EPL & I support Tottenham Hotspurs. I love LOTR & Hobbit. No the eagles were not the solution.
-
-* * *
 
 ## Objective
 1. Keep in touch with IIML computer centre over stable lan connectivity; help getting hardware/router issues resolved ASAP 
@@ -27,7 +16,18 @@ Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for 
 [Agenda](./PGP38142_16.pdf)
 
 ---
+
 ## Voting (Tentative)
 
 ### Voting starts : 17:00:00 Hrs, 27-07-2022
 ### Voting concludes : 20:59:59 Hrs, 27-07-2022
+
+## About me
+Hey! This is S Balakrishna - PGP38142, Room 16001, Hostel 16. I am standing for the post of Hostel 16 Representative.
+- I was the first person of PGP38/ABM19/FPM23 batch to come to this hostel
+- I helped quite a few people with their lan/internet connectivity issues and still do
+- I am active on the hostel 16 group, always ready to extend help whenever I can
+- I follow EPL & I support Tottenham Hotspurs. I love LOTR & Hobbit. No the eagles were not the solution.
+
+* * *
+
